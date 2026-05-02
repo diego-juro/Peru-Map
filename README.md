@@ -175,23 +175,4 @@ resultados electorales oficiales"
   )
 ```
 
----
 
-## PASO 10: Guardar el mapa (opcional)
-
-```text
-ggsave("mapa_peru.png", width = 8, height = 10, dpi = 300)
-```
-
----
-
-## RESULTADO
-
-Mapa del Perú combinando:
-
-- Nivel de educación (color de fondo)  
-- Partido ganador (color del borde)  
-
----
-
-## FIN DEL TUTORIAL
