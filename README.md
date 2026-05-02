@@ -1,9 +1,9 @@
-# 🗺️ Tutorial: Cómo hacer un mapa del Perú con resultados electorales y educación
+# Tutorial: Cómo hacer un mapa del Perú con resultados electorales y educación
 
 En este tutorial aprenderás paso a paso cómo crear un mapa del Perú combinando:
 
-- 🗳️ Partido político ganador por departamento  
-- 🎓 Tasa de asistencia a educación superior (17–24 años)
+- Partido político ganador por departamento  
+- Tasa de asistencia a educación superior (17–24 años)
 
 ---
 
